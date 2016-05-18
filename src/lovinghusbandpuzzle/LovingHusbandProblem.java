@@ -11,10 +11,6 @@ import cm3038.search.Node;
 import cm3038.search.Path;
 import cm3038.search.State;
 import cm3038.search.informed.BestFirstSearchProblem;
-import java.util.HashMap;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Map;
 
 /**
  *
